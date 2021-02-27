@@ -1,0 +1,58 @@
+"Phrases"
+{
+	"deathrun tag"
+	{
+		"en"	"{black}[DR]"
+	}
+	
+	"could not find valid death"
+	{
+		"en"	"Couldn't find a valid Death."
+	}
+	
+	"death not ingame"
+	{
+		"en"	"Death isn't ingame!."
+	}
+	
+	"client is the death"
+	{
+		"#format"	"{1:N}"
+		"en"		"{gold}{1} {default}is the Death."
+	}
+	
+	"gamemode need players"
+	{
+		"en"		"This game-mode needs atleast two players to start."
+	}
+	
+	"you selected to be chosen as death"
+	{
+		"en"	"You have selected to be chosen as {gold}Death."
+	}
+	
+	"you selected to no longer be chosen as death"
+	{
+		"en"	"You have selected to no longer be chosen as {gold}Death."
+	}
+	
+	"you cannot be chosen as death on this map"
+	{
+		"en"	"You can't be chosen as {gold}Death {default}for this map."
+	}
+	
+	"you may not change team as death"
+	{
+		"en"	"You may not change team as the {gold}Death"
+	}
+	
+	"you may not change team as red"
+	{
+		"en"	"You may not change team as the {red}Red"
+	}
+
+	"you may not autoassign team"
+	{
+		"en"	"You may not {lightgreen}auto-assign {default}a team"
+	}
+}

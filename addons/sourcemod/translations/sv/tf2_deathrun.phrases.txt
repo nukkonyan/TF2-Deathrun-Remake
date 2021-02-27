@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"could not find valid death"
+	{
+		"en"	"Kunde inte hitta en giltig Döden."
+	}
+	
+	"death not ingame"
+	{
+		"en"	"Döden är inte med i spelet."
+	}
+	
+	"client is the death"
+	{
+		"en"		"{gold}{1} {default}är vald som {gold}Döden."
+	}
+	
+	"gamemode need players"
+	{
+		"en"		"Denna spel-typ behöver minst två spelare för att starta."
+	}
+	
+	"you selected to be chosen as death"
+	{
+		"en"	"Du kan bli vald som Döden."
+	}
+	
+	"you cannot be selected as death"
+	{
+		"en"	"Du kan inte bli vald som Döden."
+	}
+	
+	"you cannot be chosen as death on this map"
+	{
+		"en"	"Du kan inte bli vald som {gold}Döden {default}på denna karta."
+	}
+	
+	"you may not change team as death"
+	{
+		"en"	"Du bör ej ändra lag som {gold}Döden."
+	}
+	
+	"you may not change team as red"
+	{
+		"en"	"Du bör ej ändra lag som {red}Röd"
+	}
+
+	"you may not autoassign team"
+	{
+		"en"	"Du bör ej {lightgreen}auto-välja {default}ett lag"
+	}
+}
