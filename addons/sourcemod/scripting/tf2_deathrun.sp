@@ -43,7 +43,7 @@ char	DRTag[256];
 #pragma		semicolon	1
 #pragma		newdecls	required
 
-#define		PLUGIN_VERSION	"1.0.0"
+#define		PLUGIN_VERSION	"1.0.1"
 
 //Here you can select if you wanna see debug messages for testing purposes. <:
 bool	DEBUG=false;

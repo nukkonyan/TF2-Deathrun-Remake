@@ -40,7 +40,7 @@ int BeDeathMenuHandler(Menu menu, MenuAction action, int client, int selection)	
 				}
 				case	2:	{
 					g_dontBeDeath[client] = DBD_THISMAP;
-					CPrintToChat(client, "%s %t", DRTag, "yu cannot be chosen as death on this map");
+					CPrintToChat(client, "%s %t", DRTag, "you cannot be chosen as death on this map");
 				}
 			}
 		}
