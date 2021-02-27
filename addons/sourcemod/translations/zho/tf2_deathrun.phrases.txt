@@ -1,0 +1,52 @@
+﻿"Phrases"
+{	
+	"could not find valid death"
+	{
+		"zho"	"找不到有效的死者."
+	}
+	
+	"death not ingame"
+	{
+		"zho"	"死者不在遊戲中!."
+	}
+	
+	"client is the death"
+	{
+		"zho"		"{gold}{1} {default}是死者."
+	}
+	
+	"gamemode need players"
+	{
+		"zho"	"死亡賽跑最少需要2名玩家才能開始."
+	}
+	
+	"you selected to be chosen as death"
+	{
+		"zho"	"你已選擇被選為 {gold}死者."
+	}
+	
+	"you selected to no longer be chosen as death"
+	{
+		"zho"	"你已選擇不再被選為 {gold}死者."
+	}
+	
+	"you cannot be chosen as death on this map"
+	{
+		"zho"	"你不會再成為 {gold}死者 {default}於此地圖中."
+	}
+	
+	"you may not change team as death"
+	{
+		"zho"	"你不能選擇更換 {gold}死者 {default}的團隊當中."
+	}
+	
+	"you may not change team as red"
+	{
+		"zho"	"你不能選擇更換 {red}紅隊 {default}的團隊當中."
+	}
+
+	"you may not autoassign team"
+	{
+		"zho"	"你不能 {lightgreen}自動分配 {default}隨機團隊."
+	}
+}
