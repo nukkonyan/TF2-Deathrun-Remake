@@ -12,7 +12,6 @@
 	
 	"client is the death"
 	{
-		"#format"	"{1:N}"
 		"es"		"{gold}{1} {default}es la Muerte."
 	}
 	
