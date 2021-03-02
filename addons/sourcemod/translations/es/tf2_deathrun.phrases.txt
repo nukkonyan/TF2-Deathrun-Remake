@@ -1,0 +1,52 @@
+"Phrases"
+{
+	"could not find valid death"
+	{
+		"es"	"No se pudo encontrar una Muerte válida."
+	}
+	
+	"death not ingame"
+	{
+		"es"	"¡La Muerte no esta dentro del juego!."
+	}
+	
+	"client is the death"
+	{
+		"es"		"{gold}{1} {default}es la Muerte."
+	}
+	
+	"gamemode need players"
+	{
+		"es"		"Este modo de juego requiere al menos de 2 jugadores para comenzar."
+	}
+	
+	"you selected to be chosen as death"
+	{
+		"es"	"Has seleccionado ser elegido como la {gold}Muerte."
+	}
+	
+	"you selected to no longer be chosen as death"
+	{
+		"es"	"Has seleccionado no ser elegido como la {gold}Muerte."
+	}
+	
+	"you cannot be chosen as death on this map"
+	{
+		"es"	"No seras seleccionado como la {gold}Muerte {default}durante este mapa."
+	}
+	
+	"you may not change team as death"
+	{
+		"es"	"No deberias cambiar de equipo siendo la {gold}Muerte"
+	}
+	
+	"you may not change team as red"
+	{
+		"es"	"No deberias cambiar de equipo siendo {red}Red"
+	}
+
+	"you may not autoassign team"
+	{
+		"es"	"No deberias {lightgreen}auto-asignarte {default}un equipo"
+	}
+}
