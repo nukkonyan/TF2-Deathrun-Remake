@@ -2,7 +2,7 @@
  *	Include files. (.inc). can also include sourcepawn files (.sp) via "example/example.sp"
  *	Load include files, usually adds functionality to the plugin.
  */
-#include	<tk>
+#include	<tklib>
 #include	<multicolors>
 #include	<clientprefs>
 #include	<tf2items>
