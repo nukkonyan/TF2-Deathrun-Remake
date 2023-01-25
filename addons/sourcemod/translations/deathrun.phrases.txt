@@ -1,0 +1,166 @@
+"Phrases"
+{
+	"Command_Disabled"
+	{
+		"pt"		"O operador do servidor desativou este comando."
+	}
+	"Command_HideTeammates_Enabled"
+	{
+		"pt"		"Aliados {secondary}INVISÍVEIS{default} para você."
+	}
+	"Command_HideTeammates_Disabled"
+	{
+		"pt"		"Aliados {secondary}VISÍVEIS{default} para você."
+	}
+	"Command_AddQueuePoints_Usage"
+	{
+		"pt"		"Uso: {secondary}dr_addqueue <#id_do_usuário|nome> <quantidade>"
+	}
+	"Command_AddQueuePoints_Success"
+	{
+		"pt"		"Adição de pontos de espera: {positive}{1}{default} ponto(s) para {secondary}{2}{default}."
+	}
+	"Command_SetQueuePoints_Usage"
+	{
+		"pt"		"Uso: {secondary}dr_setqueue <#id_do_usuário|nome> <quantidade>"
+	}
+	"Command_SetQueuePoints_Success"
+	{
+		"pt"		"{secondary}{1}{default} agora tem {secondary}{2}{default} ponto(s) de espera."
+	}
+	
+	"Target_RunnerTeam"
+	{
+		"pt"		"Equipe dos corredores"
+	}
+	"Target_ActivatorTeam"
+	{
+		"pt"		"Equipe dos ativadores"
+	}
+	
+	"ChatTip_Deathrun"
+	{
+		"pt"		"{positive}DICA:{default} digite {secondary}/deathrun{default} ou {secondary}/dr{default} para ter uma visão geral sobre todos os recursos e comandos disponíveis."
+	}
+	"ChatTip_HideTeammates"
+	{
+		"pt"		"{positive}DICA:{default} os seus aliados estão atrapalhando a sua visão? Oculte-os com o comando {secondary}/drhide{default}."
+	}
+	"ChatTip_ActivatorWeapons"
+	{
+		"pt"		"{positive}DICA:{default} como o {blue}ativador{default}, use armas de longo alcance para ativar armadilhas a longas distâncias."
+	}
+	"ChatTip_CheckQueue"
+	{
+		"pt"		"{positive}DICA:{default} o comando {secondary}/drnext{default} exibe a fila de espera para jogar como ativador."
+	}
+	"ChatTip_DisableChatTips"
+	{
+		"pt"		"{positive}DICA:{default} você pode desativar estas dicas da janela de conversa com o comando {secondary}/drsettings{default}."
+	}
+	"ChatTip_DisableActivator"
+	{
+		"pt"		"{positive}DICA:{default} não quer jogar como o {blue}ativador{default}? Use o comando {secondary}/drsettings{default} para configurar ao seu gosto."
+	}
+	
+	"RoundWin_Activator"
+	{
+		"pt"		"O {blue}ativador{default} venceu!"
+	}
+	"RoundWin_Runners"
+	{
+		"pt"		"Os {red}corredores{default} venceram!"
+	}
+	"RoundStart_NewActivator_Runners"
+	{
+		"pt"		"{1} tornou-se o {blue}ativador{default}! Evite ser morto pelas armadilhas e leve a sua equipe à vitória!"
+	}
+	"RoundStart_NewActivator_Activator"
+	{
+		"pt"		"Você se tornou o {blue}ativador{default}! Pressione os botões para ativar as armadilhas e sair vitorioso sobre a equipe inimiga!"
+	}
+	"RoundStart_MultipleActivators_Activator"
+	{
+		"pt"		"Você se tornou um {blue}ativador{default}! Trabalhe em equipe para eliminar os corredores!"
+	}
+	"RoundStart_MultipleActivators_Runners"
+	{
+		"pt"		"Vários jogadores tornaram-se o {blue}ativador{default}! Evite ser morto pelas armadilhas e leve a sua equipe à vitória!"
+	}
+	"RoundStart_Activator_Disconnected"
+	{
+		"pt"		"O {blue}ativador{default} desconectou-se! A rodada será reiniciada em {secondary}{1}{default} segundos!"
+	}
+	
+	"Preferences_Enabled"
+	{
+		"pt"		"Você {positive}ativou{default} a preferência {secondary}{1}{default}."
+	}
+	"Preferences_Disabled"
+	{
+		"pt"		"Você {negative}desativou{default} a preferência {secondary}{1}{default}."
+	}
+	
+	"Preference_DontBeActivator"
+	{
+		"pt"		"Não me selecione como o ativador"
+	}
+	"Preference_HideChatTips"
+	{
+		"pt"		"Ocultar dicas na conversa"
+	}
+	
+	"Queue_NoPointsAwarded_NotLoaded"
+	{
+		"pt"		"Nenhum ponto de espera foi concedido a você porque o servidor falhou ao carregar os seus pontos."
+	}
+	"Queue_NoPointsAwarded_Preferences"
+	{
+		"pt"		"Nenhum ponto de espera foi concedido a você devido às suas preferências."
+	}
+	"Queue_PointsAwarded"
+	{
+		"pt"		"{positive}{1}{default} ponto(s) de espera recebido(s). (Total: {positive}{2}{default}.)"
+	}
+	"Queue_ChosenAsRandomActivator"
+	{
+		"pt"		"Você foi selecionado aleatoriamente para ser o {blue}ativador{default} devido ao fato de que não há outros jogadores válidos no servidor. Os seus pontos de espera não foram consumidos."
+	}
+	
+	"Menu_Main_Title"
+	{
+		"pt"		"{1} ({2}) por {3}\n{4}"
+	}
+	"Menu_Main_Queue"
+	{
+		"pt"		"Ver fila de espera (/drnext)"
+	}
+	"Menu_Main_Preferences"
+	{
+		"pt"		"Alterar preferências (/drsettings)"
+	}
+	"Menu_Main_HideTeammates"
+	{
+		"pt"		"Ocultar aliados (/drhide)"
+	}
+	"Menu_Queue_Title"
+	{
+		"pt"		"Fila de ativadores"
+	}
+	"Menu_Queue_Title_QueuePoints"
+	{
+		"pt"		"Seus pontos de espera: {1}"
+	}
+	"Menu_Queue_NotLoaded"
+	{
+		"pt"		"Carregando pontos de espera. Aguarde..."
+	}
+	"Menu_Preferences_Title"
+	{
+		"pt"		"Preferências"
+	}
+	"Menu_Preferences_NotLoaded"
+	{
+		"pt"		"Carregando preferências. Aguarde..."
+	}
+}
